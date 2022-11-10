@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Carolina Campos
+# Hi, my name is Carolina Campos
 
 <img width="100%" src="https://github.com/carolinaacampos/assets/blob/main/banner.png" alt="my banner">
 
